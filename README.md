@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning c++, and so far liking it but still so bored to testing things.
 - 💞️ I’m looking to collaborate on some free source code projects also to gain some experience
 (thought i dont know very well how to begin)
-- 📫 Just send a mensage here, or on discord (@dyrias if you have something  to ask me
+- 📫 Just send a mensage here, or on discord @dyrias if you have something  to ask me
 (not that i know why tho).
