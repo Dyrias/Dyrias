@@ -1,5 +1,5 @@
 - Hi there, I’m @Dyrias.
 - I'm interested in programming.
-- 🌱 I know C++, C, and some python.
+- I know C++, C, and some python.
 - I’m looking to collaborate on some open source projects to gain some experience.
 - Just let a mensage here, or on discord @Dyrias if you have something to ask me
